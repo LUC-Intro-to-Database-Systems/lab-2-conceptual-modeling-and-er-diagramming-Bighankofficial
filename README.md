@@ -17,3 +17,6 @@
 - Can a **STUDENT** have more than one **SEAT**?
 - Can a **COURSE** exist with zero **STUDENTS**? No
 - Can a **PROFESSOR** teach zero **COURSES**?  No
+
+
+![image](https://user-images.githubusercontent.com/77816985/201399924-04e1d6df-67a0-4efc-82e2-2f3188951585.png)
