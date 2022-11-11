@@ -15,6 +15,5 @@
 
 # ASSUMPTIONS
 - Can a **STUDENT** have more than one **SEAT**?
-- Can a **COURSE** exist with zero **STUDENTS**? Yes
-- Can a **PROFESSOR** teach zero **COURSES**?  Yes
-
+- Can a **COURSE** exist with zero **STUDENTS**? No
+- Can a **PROFESSOR** teach zero **COURSES**?  No
